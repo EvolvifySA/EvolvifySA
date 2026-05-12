@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="(https://raw.githubusercontent.com/EvolvifySA/EvolvifySA/main/logoo.jpeg)" width="140" alt="Evolvify"/>
+<img src="https://raw.githubusercontent.com/EvolvifySA/EvolvifySA/main/logooo.jpeg" width="180" alt="Evolvify"/>
 
 <h1>Evolvify</h1>
 
 <p><strong>AI Automation & Virtual Solutions</strong></p>
 
 <p><em>"Controle absoluto. Evolução inevitável."</em></p>
+
+<br/>
 
 [![Site](https://img.shields.io/badge/🌐%20Site-evolvify.cloud-1E63C6?style=for-the-badge)](https://evolvify.cloud)
 [![Email](https://img.shields.io/badge/📧%20Email-suporte@evolvify.cloud-E7B04B?style=for-the-badge)](mailto:suporte@evolvify.cloud)
