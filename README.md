@@ -13,7 +13,7 @@
 [![Site](https://img.shields.io/badge/🌐%20Site-evolvify.cloud-1E63C6?style=for-the-badge)](https://evolvify.cloud)
 [![Email](https://img.shields.io/badge/📧%20Email-suporte@evolvify.cloud-E7B04B?style=for-the-badge)](mailto:suporte@evolvify.cloud)
 [![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-(83)%2092003--7703-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583920037703)
-[![Instagram](https://img.shields.io/badge/📸%20Instagram-@evolvify-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evolvify)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-@evolvify-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evolvify.cloud)
 
 ---
 
