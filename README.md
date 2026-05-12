@@ -1,80 +1,62 @@
 <div align="center">
 
-<!-- BANNER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E63C6,E7B04B&height=200&section=header&text=Evolvify&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20%26%20Virtual%20Solutions&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://evolvify.cloud/logo.png" width="140" alt="Evolvify"/>
 
-<br/>
+<h1>Evolvify</h1>
 
-<!-- LOGO -->
-<img src="https://evolvify.cloud/logo.png" width="120" alt="Evolvify Logo" style="border-radius: 20px"/>
+<p><strong>AI Automation & Virtual Solutions</strong></p>
 
-<br/><br/>
+<p><em>"Controle absoluto. Evolução inevitável."</em></p>
 
-<!-- BADGES DE STATUS -->
-<a href="https://evolvify.cloud">
-  <img src="https://img.shields.io/badge/🌐_Site-evolvify.cloud-1E63C6?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="mailto:suporte@evolvify.cloud">
-  <img src="https://img.shields.io/badge/📧_Email-suporte@evolvify.cloud-E7B04B?style=for-the-badge&logoColor=white"/>
-</a>
-<a href="https://instagram.com/evolvify">
-  <img src="https://img.shields.io/badge/Instagram-@evolvify-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=800&color=1E63C6&center=true&vCenter=true&width=700&lines=Tecnologia+que+evolui+empresas.;Automação+Inteligente+com+IA.;Sistemas+sob+medida+para+você.;Controle+absoluto.+Evolução+inevitável." alt="Typing SVG"/>
-
-</div>
+[![Site](https://img.shields.io/badge/🌐%20Site-evolvify.cloud-1E63C6?style=for-the-badge)](https://evolvify.cloud)
+[![Email](https://img.shields.io/badge/📧%20Email-suporte@evolvify.cloud-E7B04B?style=for-the-badge)](mailto:suporte@evolvify.cloud)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-(83)%2092003--7703-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583920037703)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-@evolvify-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evolvify)
 
 ---
 
-## 🚀 Sobre a Evolvify
+### Tecnologia que evolui empresas.
 
-A **Evolvify** é uma empresa especializada em **automação empresarial, inteligência artificial e sistemas inteligentes**. Desenvolvemos soluções modernas que transformam a operação de empresas — substituindo complexidade por controle, e processos manuais por inteligência.
+A **Evolvify** desenvolve sistemas inteligentes focados em **automação, gestão empresarial e inteligência artificial** — substituindo complexidade por controle e processos manuais por escala.
 
-> *"Controle absoluto. Evolução inevitável."*
+</div>
 
 ---
 
 ## 🧠 O que fazemos
 
-<div align="center">
-
-| 🤖 IA Própria & Humanizada | 📊 Gestão de Colaboradores | ⚡ Automação de Processos |
-|:---:|:---:|:---:|
-| IA treinada com os dados da sua empresa. Atende como humano, 24/7. | Dashboards, rankings, metas e performance em tempo real. | Fluxos automatizados que eliminam retrabalho e aumentam escala. |
-
-| 🖥️ Sistemas Personalizados | 📈 Dashboards Inteligentes | 🔗 Integrações |
-|:---:|:---:|:---:|
-| Plataformas desenvolvidas sob medida para cada negócio. | Métricas, KPIs e análises estratégicas em tempo real. | WhatsApp, CRMs, ERPs e muito mais. |
-
-</div>
+| Solução | Descrição |
+|---|---|
+| 🤖 **IA Própria & Humanizada** | Chatbot treinado com os dados da sua empresa. Atende como humano, 24/7. |
+| 👥 **Sistema de Colaboradores** | Dashboards de performance, ranking de equipe e gestão por metas. |
+| 📊 **Dashboards Inteligentes** | KPIs, métricas e análises estratégicas em tempo real. |
+| ⚙️ **Automação de Processos** | Fluxos inteligentes que eliminam retrabalho e aumentam produtividade. |
+| 🖥️ **Sistemas Personalizados** | Plataformas desenvolvidas sob medida para cada negócio. |
+| 🔗 **Integrações** | WhatsApp, CRMs, ERPs e muito mais. |
 
 ---
 
-## 💼 Produtos & Soluções
+## 📦 Arquitetura dos Produtos
 
 ```
 📦 Evolvify Suite
-├── 🤖  IA Humanizada         → Chatbot inteligente treinado com seus dados
+├── 🤖  IA Humanizada            → Chatbot inteligente treinado com seus dados
 ├── 👥  Sistema de Colaboradores → Performance, ranking e gestão de equipes
-├── 📊  Dashboard Analytics    → Indicadores e métricas em tempo real  
-├── ⚙️  Automações             → Fluxos inteligentes e integrações
-└── 🌐  Plataformas Web        → Sistemas e aplicações sob medida
+├── 📊  Dashboard Analytics      → Indicadores e métricas em tempo real
+├── ⚙️  Automações               → Fluxos inteligentes e integrações
+└── 🌐  Plataformas Web          → Sistemas e aplicações sob medida
 ```
 
 ---
 
-## 📊 Números que falam
+## 📊 Números
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projetos_Entregues-10+-1E63C6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Satisfação_dos_Clientes-100%25-E7B04B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROI_Médio-3x-1E63C6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Disponibilidade_IA-24%2F7-10B981?style=for-the-badge&logoColor=white"/>
+![Projetos](https://img.shields.io/badge/Projetos%20Entregues-10+-1E63C6?style=for-the-badge)
+![Satisfação](https://img.shields.io/badge/Satisfação-100%25-E7B04B?style=for-the-badge)
+![ROI](https://img.shields.io/badge/ROI%20Médio-3x-1E63C6?style=for-the-badge)
+![Uptime IA](https://img.shields.io/badge/IA%20Online-24%2F7-25D366?style=for-the-badge)
 
 </div>
 
@@ -86,51 +68,55 @@ A **Evolvify** é uma empresa especializada em **automação empresarial, inteli
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Backend & IA**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**Infraestrutura**
+**Infra & Deploy**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
 
-## 📬 Fale com a Evolvify
+## ✅ Por que a Evolvify?
+
+- 🎯 **Sistemas sob medida** — nada de soluções genéricas
+- 🤖 **IA integrada** — inteligência artificial real no seu negócio
+- 📈 **Foco em resultado** — ROI médio de 3x no primeiro ano
+- ⚡ **Entrega rápida** — do briefing ao sistema funcionando
+- 🔒 **Segurança** — dados protegidos e infraestrutura confiável
+- 🤝 **Suporte estratégico** — parceria de longo prazo
+
+---
+
+## 📬 Fale com a gente
 
 <div align="center">
 
-Tem um projeto em mente? Vamos conversar.
+**Tem um projeto em mente? Vamos conversar.**
 
 <br/>
 
-<a href="https://evolvify.cloud">
-  <img src="https://img.shields.io/badge/🚀_Acessar_Site-evolvify.cloud-1E63C6?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://wa.me/5500000000000">
-  <img src="https://img.shields.io/badge/💬_WhatsApp-Fale_Conosco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:suporte@evolvify.cloud">
-  <img src="https://img.shields.io/badge/📧_Email-suporte@evolvify.cloud-E7B04B?style=for-the-badge"/>
-</a>
+[![Acessar Site](https://img.shields.io/badge/🚀%20Acessar%20Site-evolvify.cloud-1E63C6?style=for-the-badge)](https://evolvify.cloud)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-Falar%20Agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5583920037703)
+[![Email](https://img.shields.io/badge/📧%20Email-suporte@evolvify.cloud-E7B04B?style=for-the-badge)](mailto:suporte@evolvify.cloud)
 
-<br/><br/>
+<br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1E63C6,E7B04B&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+<sub>© 2025 Evolvify · AI Automation & Virtual Solutions · evolvify.cloud</sub>
 
 </div>
