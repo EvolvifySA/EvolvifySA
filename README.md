@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://evolvify.cloud/logo.png](https://raw.githubusercontent.com/EvolvifySA/EvolvifySA/main/logoo.jpeg)" width="140" alt="Evolvify"/>
+<img src="(https://raw.githubusercontent.com/EvolvifySA/EvolvifySA/main/logoo.jpeg)" width="140" alt="Evolvify"/>
 
 <h1>Evolvify</h1>
 
